@@ -1,9 +1,11 @@
 # Relationships Between Sequence, Structure, Function and Dynamics in Acyl Carrier Proteins.
+
 **Rohit Farmer, Christopher M. Thomas and Peter J. Winn**
 
-**Folder**
+**Folders**
 
-amber99sb-ildn.ff : Amber 99 SB ILDN force field with added parameters from GAFF.
+amber99sb-ildn.ff : Amber 99 SB ILDN force field with added parameters from GAFF.  
+Figure-Coordinates :  Coordinates (.pdb) for structures used in figure panels. The number in the file name denotes the frame number in the simulation. Each frame was captured at 10 ps therefore frame number 100 would mean 100 X 10 = 1000 ps = 1 ns.
 
 **Simulation Files**
 
