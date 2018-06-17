@@ -1,4 +1,4 @@
-# Relationships Between Sequence, Structure, Function and Dynamics in Acyl Carrier Proteins.
+# Structure, Function and Dynamics in Acyl Carrier Proteins.
 
 **Rohit Farmer, Christopher M. Thomas and Peter J. Winn**
 
