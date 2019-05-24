@@ -1,0 +1,7 @@
+# These are the two options I usually use: first one colours the inside of helix as grey the second one doesn't.
+
+set ray_trace_mode, 1; set antialias, 6; set ray_shadow, 1; set cartoon_highlight_color, grey;set ray_texture, 4
+
+set ray_trace_mode, 1; set antialias, 6; set ray_shadow, 1; set ray_texture, 4
+
+ray
