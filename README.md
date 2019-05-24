@@ -8,9 +8,11 @@
 
 **Folders**
 
+* **Figures:**  Coordinates (.pdb) for structures used in figure panels. The number in the file name denotes the frame number in the simulation. Each frame was captured at 10 ps therefore frame number 100 would mean 100 X 10 = 1000 ps = 1 ns. [Pymol](https://pymolwiki.org/index.php/Linux_Install) session files (.pse), and [Inkscape](https://inkscape.org) files (.svg) that were used to generate the figures are also provided.
+* **Scripts:** Perl scripts used in the project.
 * **Simulations:** Simulations are in compressed .pdb.zip format with the labelling corresponding to Table 1 in the main paper. To comply with the size allowance of GitHub, GROMACS trajectories that were initially recorded at 10 ps time intervals are reduced to 100 ps time intervals for 200 ns simulations and to 500 ps time intervals for 1 microsecond simulations. Trajectories are converted to PDB format with no water molecules and ions and compressed to individual zip files. Uncompressed simulation files can be visualized in [VMD](https://www.ks.uiuc.edu/Research/vmd/).
   * **amber99sb-ildn.ff:** Amber 99 SB ILDN force field with added parameters from GAFF.  
-* **Figures:**  Coordinates (.pdb) for structures used in figure panels. The number in the file name denotes the frame number in the simulation. Each frame was captured at 10 ps therefore frame number 100 would mean 100 X 10 = 1000 ps = 1 ns. [Pymol](https://pymolwiki.org/index.php/Linux_Install) session files (.pse), and [Inkscape](https://inkscape.org) files (.svg) that were used to generate the figures are also provided.
+
 
 For comments and questions please contact:
 
